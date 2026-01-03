@@ -126,7 +126,7 @@ MLPROJECT/
 
 ### Clone the Repository
 ```bash 
-git clone <repository-url>
+git clone https://github.com/Captain-23/End-to-End-ML-Project
 cd MLPROJECT
 ``` 
 ### Create and Activate Virtual Environment
